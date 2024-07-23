@@ -1,0 +1,55 @@
+a.bnt{
+	text-decoration: none; 
+	padding: 10px 28px;
+	border-radius: 25px;
+	margin:0 15px;
+}
+.jk{
+	color: #fff;
+	background-color: black;
+}
+.kj{
+	color:black;
+	background-color:#fff;
+}
+.btn-sm{
+padding: 0.25rem 0.5rem;
+  font-size: 1.300rem;
+  line-height: 1.5;
+  border-radius: 0.05;
+}
+#left{
+	width: 45%;
+	float: left;
+	background-color: white;
+	margin: 30px;
+}
+#right{
+	width: 45%;
+	float: right;
+	background-color: white;
+	margin: 30px;
+}
+#left1{
+	width: 45%;
+	height: 45vh;
+	float: left;
+	background-color: #c8dfea;
+	margin: 0px;
+}
+#right2{
+	width: 50%;
+	height: 45vh;
+	float: right;
+	background-color: #c8dfea;
+	margin: 0px;
+}
+h1{
+	font-size: 40px;
+}
+p{
+	color: black;
+}
+.font1{
+	font-size: 25px;
+}
