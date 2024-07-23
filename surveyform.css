@@ -1,0 +1,84 @@
+*{
+	margin:0;
+	padding: 0;
+}
+body{
+	background-image: url(fish/pexels-philippe-donn-1114690.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	color: #fff;
+}
+.headind{
+	text-align: center;
+	width: 100%;
+	margin: auto;
+	margin-top: 79px;
+}
+#head{
+	font-size: 1.8em;
+}
+#subheading{
+	font-size: 18px;
+	margin-top: 10px;
+}
+#content1{
+          width: 90%;
+          margin: auto;
+}
+form{
+	background-color: rgba(0, 0, 0, 0.7);
+	padding-top: 34px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 54%;
+	border-radius: 5px;
+	margin: auto;
+	margin-top: 10px;
+	padding-bottom: 60px;
+}
+form .box{
+	width: 98.5%;
+	height: 2.8em;
+	position: relative;
+	bottom: 10px;
+	border: 0;
+	border-radius: 5px;
+}
+#option1 select{
+	width: 98.5%;
+	height: 2.7em;
+	position: relative;
+	bottom: 10px;
+	border-radius: 5px;
+	border: 0;
+}
+#option2 select{
+	width: 98.5%;
+	height: 2.7em;
+	position: relative;
+	bottom: 10px;
+	border-radius: 5px;
+	border: 0;
+
+}
+a.bnt{
+	text-decoration: none; 
+	padding: 10px 28px;
+	border-radius: 25px;
+	margin:0 15px;
+}
+.jk{
+	color: #fff;
+	background-color: black;
+}
+.kj{
+	color:black;
+	background-color:#fff;
+}
+.btn-sm{
+padding: 0.25rem 0.5rem;
+  font-size: 1.300rem;
+  line-height: 1.5;
+  border-radius: 0.05;
+}
